@@ -9,4 +9,8 @@
 
 
 # FIXME: add to defaults
-compiler.xml
+/gradle.xml
+/compiler.xml
+/modules.xml
+/modules
+/vcs.xml

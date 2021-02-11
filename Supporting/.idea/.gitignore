@@ -11,4 +11,5 @@
 # FIXME: add to defaults
 compiler.xml
 /modules
+/vcs.xml
 
