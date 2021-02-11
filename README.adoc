@@ -1,0 +1,8 @@
+
+----
+Execution failed for task ':buildSrc:generateSourceRoots'.
+> Failed to calculate the value of task ':buildSrc:generateSourceRoots' property 'sourceRoots'.
+   > Project with path ':lib' could not be found in project ':buildSrc'.
+----
+
+https://youtrack.jetbrains.com/issue/IDEA-261518[IDEA-261518]
