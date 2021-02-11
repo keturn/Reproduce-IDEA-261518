@@ -10,4 +10,5 @@
 rootProject.name = "Primary"
 include("app")
 
+// Make a composite build by including another project.
 includeBuild("../Supporting")
