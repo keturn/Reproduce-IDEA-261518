@@ -3,6 +3,8 @@ on: push
 
 jobs:
   Qodana:
+    runs-on: ubuntu-latest
+
     steps:
       - name: Qodana - Code Inspection
         uses: JetBrains/qodana-action@v1.0-eap
